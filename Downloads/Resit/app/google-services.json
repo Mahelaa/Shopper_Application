@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6613610731",
+    "firebase_url": "https://shopper-dd2f3.firebaseio.com",
+    "project_id": "shopper-dd2f3",
+    "storage_bucket": "shopper-dd2f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6613610731:android:a7076c64d8a17989",
+        "android_client_info": {
+          "package_name": "com.example.terminus.resit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6613610731-44h599u37fpr914m0p5i1ju8t7tpeu15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.terminus.resit",
+            "certificate_hash": "e7aff0225ccc92323bdca89649821713faa2d949"
+          }
+        },
+        {
+          "client_id": "6613610731-al6o3328prmg2u0jfcs0dfq9eddd0sgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAKfCBWIoodaIW1dzURWfhG3MF4P-Sm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6613610731-al6o3328prmg2u0jfcs0dfq9eddd0sgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
